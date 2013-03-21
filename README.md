@@ -1,7 +1,4 @@
-1. Installation for webmasters
-
-For Installing the program for your usage, you must take your /etc/hosts and modify it for adding domains.
-Upload your modified host you want clients to use, and replace #url in update.sh by the adress of your "pure" modified hosts file.
+When i will finish a beta version of this, everybody can use it for create a new web, just send my request with the domain you want, and your IP.
 
 
 2. Installation for users of the domains
